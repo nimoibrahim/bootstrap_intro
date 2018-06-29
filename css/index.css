@@ -3,8 +3,11 @@
 	height:150px
 }
 
-body{font-family: 'Roboto', sans-serif;
-color:solid black;}
+body{
+	font-family: 'Markazi Text', serif;
+color:solid black;
+background-color: pink;
+ }
 
 .navbar-default {
 background-color: #000;
@@ -15,4 +18,17 @@ border-color: #000;
 .navbar-default .navbar-brand {
     color: white; }
 
- h2{font size:1px;}
+.img-circle {width: 150px;
+border-radius:20px;}
+
+h1{
+	text-decoration: underline;
+}
+
+.header {
+font-size: 70px;
+}
+
+.links {
+	text-decoration: underline;
+}

@@ -18,8 +18,9 @@ border-color: #000;
 .navbar-default .navbar-brand {
     color: white; }
 
-.img-circle {width: 150px;
-border-radius:20px;}
+.img-circle {width: 170px;
+border-radius:20px;
+}
 
 h1{
 	text-decoration: underline;
